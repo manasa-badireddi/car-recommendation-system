@@ -1,0 +1,6 @@
+@echo off
+echo 🚗 Starting Car Recommendation App...
+echo 📊 This will open in your web browser...
+cd /d "C:\Users\malle\OneDrive\Desktop\sriya\car recommendation project"
+streamlit run src\app.py
+pause
